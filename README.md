@@ -61,18 +61,15 @@ I'm a developer who loves to code and learn new technologies. I enjoy working on
   <a href="https://twitter.com/adityachaudhari24" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="mailto:aditya.chaudhari@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
 ## 💡 Current Focus
 
-- 🔭 I'm currently working on exciting projects
-- 🌱 I'm currently learning new technologies and frameworks
-- 👯 I'm looking to collaborate on open source projects
-- 💬 Ask me about software development and technology
-- ⚡ Fun fact: I love coding and problem-solving!
+- 🔭 I'm currently working on web development and software engineering projects
+- 🌱 I'm learning React, Node.js, and modern JavaScript frameworks
+- 👯 I'm looking to collaborate on open source projects and innovative ideas
+- 💬 Ask me about Python, JavaScript, web development, and problem-solving
+- ⚡ Fun fact: I love exploring new technologies and building creative solutions!
 
 ---
 
