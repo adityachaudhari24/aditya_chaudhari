@@ -21,9 +21,11 @@ Designing and delivering **cloud-native, AI-ready enterprise commerce platforms*
 
 ## 🚀 Current Focus
 
+
 🔹 **Cloud-Native** – Architecting scalable, multi-tenant platforms on AWS  
 🔹 **AI-Native Commerce** – Exploring agentic AI, GenAI, and intelligent automation in commerce ecosystems  
 🔹 **Thought Leadership** – Writing about cloud architecture, AI/ML, and modern commerce patterns
+
 ---
 
 
